@@ -119,17 +119,17 @@
 
 | Chapter/Topic Name               | Weightage/Marks | Status                          |
 | -------------------------------- | --------------- | ------------------------------- |
-| Chemical Reactions and Equations | 6               | <input type="checkbox" checked> |
-| Acids, Bases and Salts           | 6               | <input type="checkbox" checked> |
-| Metals and Non-metals            | 6               | <input type="checkbox" checked> |
-| Carbon and its Compounds         | 7               | <input type="checkbox" checked> |
+| Chemical Reactions and Equations | 6               | ✅<input type="checkbox" checked> |
+| Acids, Bases and Salts           | 6               | ✅<input type="checkbox" checked> |
+| Metals and Non-metals            | 6               | ✅ |
+| Carbon and its Compounds         | 7               | ✅ |
 
 ## Biology - World of Living [25 marks]
 
 | Chapter/Topic Name          | Weightage/Marks | Status                            |
 | --------------------------- | --------------- | --------------------------------- |
-| Life Processes              | 10              | <input type="checkbox" checked>   |
-| Control and Coordination    | 7               | <input type="checkbox" checked>   |
+| Life Processes              | 10              | ✅<input type="checkbox" checked>   |
+| Control and Coordination    | 7               | ✅<input type="checkbox" checked>   |
 | How do Organisms Reproduce? | 8               | <input type="checkbox" unchecked> |
 | Heredity and Evolution      | 5*              | <input type="checkbox" unchecked> |
 
@@ -139,22 +139,22 @@
 
 | Chapter/Topic Name                    | Weightage/Marks | Status                          |
 | ------------------------------------- | --------------- | ------------------------------- |
-| Light – Reflection and Refraction     | 7               | <input type="checkbox" checked> |
-| The Human Eye and the Colourful World | 5               | <input type="checkbox" checked> |
+| Light – Reflection and Refraction     | 7               | ✅<input type="checkbox" checked> |
+| The Human Eye and the Colourful World | 5               | ✅<input type="checkbox" checked> |
 
 
 ## Physics - Effects of Current [13 marks]
 
 | Chapter/Topic Name                   | Weightage/Marks | Status                            |
 | ------------------------------------ | --------------- | --------------------------------- |
-| Electricity                          | 7               | <input type="checkbox" checked>   |
+| Electricity                          | 7               | ✅<input type="checkbox" checked>   |
 | Magnetic Effects of Electric Current | 6               | <input type="checkbox" unchecked> |
 
 ## Biology - Natural Resources [5 marks]
 
 | Chapter/Topic Name | Weightage/Marks | Status                          |
 | ------------------ | --------------- | ------------------------------- |
-| Our Environment    | 5               | <input type="checkbox" checked> |
+| Our Environment    | 5               | ✅<input type="checkbox" checked> |
 
 > **Deleted Chapters (2025-26):** Periodic Classification of Elements (Chemistry), Sources of Energy (Physics), Management of Natural Resources (Biology) — all removed from board exam
 
@@ -168,51 +168,51 @@
 
 | Chapter/Topic Name | Weightage/Marks | Status                          |
 | ------------------ | --------------- | ------------------------------- |
-| Real Numbers       | 6               | <input type="checkbox" checked> |
+| Real Numbers       | 6               | ✅<input type="checkbox" checked> |
 
 
 ## Unit II: Algebra [20 marks]
 
 | Chapter/Topic Name                        | Weightage/Marks | Status                          |
 | ----------------------------------------- | --------------- | ------------------------------- |
-| Polynomials                               | ~3-4            | <input type="checkbox" checked> |
-| Pair of Linear Equations in Two Variables | ~5-6            | <input type="checkbox" checked> |
-| Quadratic Equations                       | ~5-6            | <input type="checkbox" checked> |
-| Arithmetic Progressions                   | ~5-6            | <input type="checkbox" checked> |
+| Polynomials                               | ~3-4            | ✅<input type="checkbox" checked> |
+| Pair of Linear Equations in Two Variables | ~5-6            | ✅<input type="checkbox" checked> |
+| Quadratic Equations                       | ~5-6            | ✅<input type="checkbox" checked> |
+| Arithmetic Progressions                   | ~5-6            | ✅<input type="checkbox" checked> |
 
 ## Unit III: Coordinate Geometry [6 marks]
 
 | Chapter/Topic Name                                      | Weightage/Marks | Status                          |
 | ------------------------------------------------------- | --------------- | ------------------------------- |
-| Coordinate Geometry (Distance Formula, Section Formula) | 6               | <input type="checkbox" checked> |
+| Coordinate Geometry (Distance Formula, Section Formula) | 6               | ✅<input type="checkbox" checked> |
 
 ## Unit IV: Geometry [15 marks]
 
 | Chapter/Topic Name              | Weightage/Marks | Status                          |
 | ------------------------------- | --------------- | ------------------------------- |
-| Triangles (Similarity Theorems) | ~8-9            | <input type="checkbox" checked> |
-| Circles (Tangents)              | ~6-7            | <input type="checkbox" checked> |
+| Triangles (Similarity Theorems) | ~8-9            | ✅<input type="checkbox" checked> |
+| Circles (Tangents)              | ~6-7            | ✅<input type="checkbox" checked> |
 
 ## Unit V: Trigonometry [12 marks]
 
 | Chapter/Topic Name           | Weightage/Marks | Status                          |
 | ---------------------------- | --------------- | ------------------------------- |
-| Introduction to Trigonometry | ~7-8            | <input type="checkbox" checked> |
-| Heights and Distances        | ~4-5            | <input type="checkbox" checked> |
+| Introduction to Trigonometry | ~7-8            | ✅<input type="checkbox" checked> |
+| Heights and Distances        | ~4-5            | ✅<input type="checkbox" checked> |
 
 ## Unit VI: Mensuration [10 marks]
 
 | Chapter/Topic Name        | Weightage/Marks | Status                          |
 | ------------------------- | --------------- | ------------------------------- |
-| Areas Related to Circles  | ~4-5            | <input type="checkbox" checked> |
-| Surface Areas and Volumes | ~5-6            | <input type="checkbox" checked> |
+| Areas Related to Circles  | ~4-5            | ✅<input type="checkbox" checked> |
+| Surface Areas and Volumes | ~5-6            | ✅<input type="checkbox" checked> |
 
 ## Unit VII: Statistics and Probability [11 marks]
 
 | Chapter/Topic Name                              | Weightage/Marks | Status                          |
 | ----------------------------------------------- | --------------- | ------------------------------- |
-| Statistics (Mean, Median, Mode of Grouped Data) | ~6-7            | <input type="checkbox" checked> |
-| Probability                                     | ~4-5            | <input type="checkbox" checked> |
+| Statistics (Mean, Median, Mode of Grouped Data) | ~6-7            | ✅<input type="checkbox" checked> |
+| Probability                                     | ~4-5            | ✅<input type="checkbox" checked> |
 
 ---
 
